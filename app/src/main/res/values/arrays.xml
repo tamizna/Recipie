@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bahan">
+        <item>
+            250 gram tepung terigu protein sedang\n6 gram ragi instan\n1 Butir telur ukuran besar\n
+        </item>
+        <item>
+            50 gram gula pasir\n115 ml susu cair rasa vanilla\n60 gram butter
+        </item>
+    </string-array>
+
+    <string-array name="langkah">
+        <item>
+            1. Campur terigu, gula pasir, ragi, aduk. Kemudian beri telur
+            dan susu. Uleni hingga setengah Kalis. Kemudian masukan butter,
+            uleni hingga kalis dan adonan bisa dibentuk bola.\n
+            2. Tutup serbet, lalu istirahat kan 1 jam hingga mengembang\n
+            3. Campur bahan isian, aduk rata\n
+            4. Setelah adonan mengembang, kempiskan, lalu bawa ke bidang luas.
+            ratakan adonan menggunakan rolling pin, bentuk persegi dengan
+            ketebalan sekitar 1 cm.\n
+            5. Beri isian, lalu ratakan isian. Kemudian gulung perlahan agar
+            gulungan sama besarnya. Setelah digulung Istirahatkan terlebih
+            dahulu 5 menit, kemudian potong dengan ketebalan 1 cm. Tata di
+            loyang.\n
+            6. Tutup serbet lalu istirahatkan selama 15 menit, sambil menunggu
+            Adonan diistirahatkan, nyalakan oven agar sudah panas ketika adonan
+            siap dipanggang.\n
+            7. Taburi chocolatos drink, Panggang selama 25-30 menit / sesuaikan
+            oven masing-masing.
+        </item>
+        <item>
+            1. Siapkan bahan, tim butter, keju spready dan susu sambil diaduk sampai licin\n
+            2. Kocok telur sampai rata, kemudian masukkan adonan keju, aduk rata lalu
+            masukkan terigu yang sudah diayak dan aduk rata hingga licin.\n
+            3. Kocok putih telur hingga setengah mengembang, masukkan air jeruk nipis,
+            kemudian gula pasir secara bertahap hingga mengembang soft peak \n
+            4. Masukkan adonan putih telur ke adonan kuning telur. Aduk balik hingga rata.
+            Masukkan kedalam loyang ukuran 14 cm. Hentakkan beberapa kali, kemudian
+            oven dengan suhu 150 derajat celcius dengan sistem au baun marie selama
+            kurang lebih 50-60 menit atau sampai matang.
+        </item>
+    </string-array>
+</resources>
